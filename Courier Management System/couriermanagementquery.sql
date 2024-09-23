@@ -421,10 +421,11 @@ on c1.CourierID=c2.CourierID
 where c1.SenderID=c2.SenderID
 
 --47.List employees and the number of couriers they have delivered: 
-select e.[Name],count(*) (where CourierStatus='Delivered') as DeliveredCount --error
+select e.[name], count(c.courierid) as deliveredcount
 from Employee e
-right join Courier c on e.EmployeeID = c.EmployeeID
-group by e.[Name]
+left join courier c on e.EmployeeID = c.EmployeeID and c.CourierStatus = 'Delivered'
+group by e.[name]
+
 
 --48. Find couriers that were paid an amount greater than the cost of their respective courier services
 select c.CourierID, c.TrackingNumber, c.DeliveryDate, sum(p.Amount) as TotalPayments, cs.ServiceName,cs.Cost
