@@ -1,0 +1,14 @@
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\bin\Debug\net6.0\AssignmentWork.exe
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\bin\Debug\net6.0\AssignmentWork.deps.json
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\bin\Debug\net6.0\AssignmentWork.runtimeconfig.json
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\bin\Debug\net6.0\AssignmentWork.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\bin\Debug\net6.0\AssignmentWork.pdb
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\obj\Debug\net6.0\AssignmentWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\obj\Debug\net6.0\AssignmentWork.AssemblyInfoInputs.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\obj\Debug\net6.0\AssignmentWork.AssemblyInfo.cs
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\obj\Debug\net6.0\AssignmentWork.csproj.CoreCompileInputs.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\obj\Debug\net6.0\AssignmentWork.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\obj\Debug\net6.0\refint\AssignmentWork.dll
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\obj\Debug\net6.0\AssignmentWork.pdb
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\obj\Debug\net6.0\AssignmentWork.genruntimeconfig.cache
+C:\Users\Aniket Barua\OneDrive\Desktop\C# code\CourierManagementC#\AssignmentWork\obj\Debug\net6.0\ref\AssignmentWork.dll
